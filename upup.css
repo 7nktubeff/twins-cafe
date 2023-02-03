@@ -1,0 +1,44 @@
+
+
+body{
+
+background-attachment: fixed;
+background-position: right bottom;
+}
+h2{font-size: 130px;
+font-family: arial, sans-serif;
+}
+h3{font-size: 40px;
+font-family: arial, sans-serif;
+}
+h1 {
+color: #990000;
+background-color: #FC9804;
+}
+h3{
+color: #990000;
+background-color: #FC9804;
+}
+h4{font-size: 35px;
+font-family: arial, sans-serif;
+}
+
+}
+a:visited {
+color: #660099;
+}
+a:hover {
+color: orange;
+font-style: italic;
+}
+h4{
+color: #990000;
+background-color: #f0ffff;
+}
+a {
+text-decoration:none;
+}
+a:active {
+background-color: yellow;
+text-decoration:none;
+}
